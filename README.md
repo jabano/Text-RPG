@@ -1,5 +1,5 @@
 # Text RPG
-[Learning C# using Scott Lilly's guide](scottlilly.com/learn-c-by-building-a-simple-rpg-index/) and extending the code.
+[Learning C# using Scott Lilly's guide](https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/) and extending the code.
 
 # Checklist
 
